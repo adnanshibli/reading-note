@@ -106,6 +106,6 @@ needs to follow instructions every time it performs
 the task. So a program must give the computer
 enough detail to perform the task as if every time
 were its first time. 
-![inms](https://i.pinimg.com/originals/28/f4/25/28f425e5bbd52e95254060ed637f669c.jpg)
+![img](https://i.pinimg.com/originals/28/f4/25/28f425e5bbd52e95254060ed637f669c.jpg)
 
 
